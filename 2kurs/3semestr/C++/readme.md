@@ -3,4 +3,4 @@
 [2 лабораторная](https://github.com/IIMixaII/C_Laba2)  
 [3 лабораторная](https://github.com/IIMixaII/C_Laba3)   
 [4 лабораторная](https://github.com/IIMixaII/C_Laba4)   
-[4 лабораторная](https://github.com/IIMixaII/C_Laba4)  
+[5 лабораторная](https://github.com/IIMixaII/C_Laba5)  
