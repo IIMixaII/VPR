@@ -7,3 +7,4 @@
 [6 лабораторная](https://github.com/IIMixaII/C_Laba6)  
 [7 лабораторная](https://github.com/IIMixaII/C_Laba7)  
 [8 лабораторная](https://github.com/IIMixaII/C_Laba8) 
+[9 лабораторная, алгоритмы поиска](https://github.com/IIMixaII/C_Laba9) 
