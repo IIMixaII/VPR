@@ -1,0 +1,47 @@
+* {
+    text-decoration: none;
+    color: black;
+    background-color: antiquewhite;
+}
+header {
+  
+    height: 90px;
+}
+header>img{
+    height: 90px;
+    width: 150px;
+}
+nav {
+float: left;
+font-size: x-large;
+border-style: solid;
+border-width: 0.5px;
+padding: 5px;
+
+}
+
+main {
+margin-left: 15%;
+
+}
+main>p {
+    font-size: x-large;
+    margin-left: 29%;
+}
+main>img {
+    height: 60%;
+    width: 60%;
+    margin-left: 17%;
+    border-style: solid;
+    border-width: 0.5px;
+    padding: 5px;
+    }
+    img {
+        height: 100px;
+        width: 100px;
+    }
+    
+    footer{
+        font-size: x-large;
+        text-align: center;
+    }

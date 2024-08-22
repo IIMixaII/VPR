@@ -1,0 +1,54 @@
+* {
+    text-decoration: none;
+    color: black;
+    background-color: antiquewhite;
+}
+
+/*body{
+    background: url(../image/fon1.jpg);
+}*/
+header {
+  
+    height: 90px;
+}
+header>img{
+    height: 90px;
+    width: 150px;
+}
+nav {
+float: left;
+font-size: x-large;
+border-style: solid;
+border-width: 0.5px;
+padding: 5px;
+
+}
+
+main {
+margin-left: 15%;
+
+}
+main>p {
+    font-size: x-large;
+    margin-top: 0px;
+}
+main>img {
+height: 30%;
+width: 30%;
+float:right;
+border-style: solid;
+border-width: 0.5px;
+padding: 5px;
+}
+
+
+
+img {
+    height: 100px;
+    width: 100px;
+}
+
+footer{
+    font-size: x-large;
+    text-align: center;
+}
