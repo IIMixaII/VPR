@@ -5,3 +5,4 @@
 [4 лабораторная](https://github.com/IIMixaII/C_Laba4)   
 [5 лабораторная](https://github.com/IIMixaII/C_Laba5)  
 [6 лабораторная](https://github.com/IIMixaII/C_Laba6)  
+[7 лабораторная](https://github.com/IIMixaII/C_Laba7)  
