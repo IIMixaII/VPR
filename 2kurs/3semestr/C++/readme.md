@@ -6,5 +6,5 @@
 [5 лабораторная](https://github.com/IIMixaII/C_Laba5)  
 [6 лабораторная](https://github.com/IIMixaII/C_Laba6)  
 [7 лабораторная](https://github.com/IIMixaII/C_Laba7)  
-[8 лабораторная](https://github.com/IIMixaII/C_Laba8) 
-[9 лабораторная, алгоритмы поиска](https://github.com/IIMixaII/C_Laba9) 
+[8 лабораторная](https://github.com/IIMixaII/C_Laba8)  
+[9 лабораторная, алгоритмы сортировки](https://github.com/IIMixaII/C_Laba9) 
