@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="D:\sh\wdwd\square.css" />
+</head>
+
+<body>
+    <h1>Квадрат</h1>
+    <div id="blue"></div>
+    <div id="red"></div>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            var blue = document.getElementById("blue")
+            var red = document.getElementById("red")
+            blue.onclick = function () {
+                alert('Синий цвет')
+            }
+            red.onclick = function () {
+                alert('Красный квадрат')
+            }
+        }) 
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="D:\sh\style.css" />
+    <title>Chess-Game</title>
+  </head>
+  <body>
+  <div id="gameboard"></div>
+  <p>it is <span id = "player"></span>'s go.</p>
+  <p id="info-display"></p>
+  <div id ="one"><button onclick="toggleMenu()">Открыть меню</button></div>
+
+<div id="menu">
+  <div id="menu-content">
+    <p>Chess Game Menu</p>
+    <button onclick="startNewGame()">Начать заново</button>
+    <button onclick="toggleMenu()">Закрыть Меню</button>
+  </div>
+</div>
+<div id = "table">
+<h1>Таблица рекордов</h1>
+<table id="leaderboard">
+    <thead>
+        <tr>
+            <th>Место</th>
+            <th>Ник игрока</th>
+            <th>Время игры</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+    </tbody>
+</table> </div>
+
+      <script src="D:\sh\pieces.js"></script>
+      <script src="D:\sh\s.js"></script>
+  </body>
+</html>
